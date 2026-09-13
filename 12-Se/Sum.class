@@ -1,0 +1,9 @@
+
+public class Sum{
+  public static viod main(String[]arga){
+  int ver1 = 50;
+  int ver2 = 20;
+int Sum = ver1 + ver2;
+system.out.println("Sum of "+ver1+" and "+ver2+");
+}
+}
