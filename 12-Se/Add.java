@@ -5,6 +5,7 @@ public class Add{
 	   int ver2 = 20;
 	   int ver3 = 60;
 	   int result = ver1 + ver2 + ver3;
-	   System.out.println("Add of "+ver1+" and "+ver2 +" and "+ver3+" is "+result);
+	   String finalResult =  "Add of "+ver1+" and "+ver2 +" and "+ver3+" is "+result
+	   System.out.println(finalResult);
    }
 }
